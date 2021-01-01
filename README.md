@@ -1,2 +1,2 @@
 # ML-CKD
-Diagnosis of chronic kidney disease
+Diagnosis of chronic kidney disease using machine learning.
